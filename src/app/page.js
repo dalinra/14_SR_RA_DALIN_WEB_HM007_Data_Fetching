@@ -18,7 +18,6 @@ const page = async() => {
   const uniqueGenre = Array.from(getGenre); 
   console.log(" Loop Genre : ", uniqueGenre)
 
-
   return (
     <div>
       <div className=' w-full h-screen '>
